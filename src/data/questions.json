@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Vào một buổi tối cuối tuần lười biếng, hai bạn thích làm gì nhất?",
+    "options": [
+      "Nằm ôm nhau cày phim và gọi đồ ăn về nhà",
+      "Lên đồ dạo phố, ghé quán cà phê quen tán gẫu",
+      "Cùng nhau vào bếp thử nấu một món mới",
+      "Mỗi người một góc làm việc riêng nhưng cùng trong phòng"
+    ]
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Khi thức dậy vào buổi sáng, việc đầu tiên người kia thường làm là gì?",
+    "options": [
+      "Cầm ngay điện thoại lướt mạng xã hội",
+      "Nằm nướng thêm 10-15 phút rồi mới chịu dậy",
+      "Bật dậy ngay để uống nước và rửa mặt",
+      "Quay sang ôm người bên cạnh rồi ngủ tiếp"
+    ]
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Khi chuẩn bị ra ngoài hẹn hò, thói quen chuẩn bị đồ của hai bạn là:",
+    "options": [
+      "Luôn sẵn sàng đúng giờ từng phút một",
+      "Thay ra thay vào 4-5 bộ đồ mới ưng ý",
+      "Luôn bị trễ hẹn 10-15 phút vì làm tóc/chọn giày",
+      "Cứ diện đồ đơn giản thoải mái là lên đường"
+    ]
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Bữa ăn lý tưởng nhất trong những ngày 'không biết ăn gì' là:",
+    "options": [
+      "Lẩu hoặc nướng nghi ngút khói no căng bụng",
+      "Cơm tấm hoặc bún bò đậm đà thân thuộc",
+      "Trà sữa và các món ăn vặt lề đường",
+      "Tìm một quán mới toanh chưa thử bao giờ"
+    ]
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Trong tủ lạnh lúc nào cũng không thể thiếu món gì?",
+    "options": [
+      "Trái cây tươi mát lạnh cắt sẵn",
+      "Nước ngọt, trà sữa hoặc cà phê lon",
+      "Kem hoặc các món tráng miệng ngọt",
+      "Thức ăn vặt chế biến sẵn (xúc xích, phô mai)"
+    ]
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Thói quen chi tiêu hàng ngày của đối phương nghiêng về:",
+    "options": [
+      "Chi tiêu phóng khoáng cho đồ ăn và trải nghiệm",
+      "Cân nhắc kỹ lưỡng, chỉ mua thứ thực sự cần",
+      "Đam mê săn sale Shopee/Tiktok lúc nửa đêm",
+      "Tiết kiệm là quốc sách, luôn tính toán tương lai"
+    ]
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Khi cả hai đi du lịch cùng nhau, kiểu lịch trình ưa thích là:",
+    "options": [
+      "Lên kế hoạch chi tiết từng quán ăn, từng địa điểm check-in",
+      "Du lịch nghỉ dưỡng, chỉ nằm resort ngủ và ăn",
+      "Đi phượt ngẫu hứng, tới đâu tính tới đó",
+      "Trải nghiệm văn hóa địa phương và thử thách mạo hiểm"
+    ]
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Âm thanh nền yêu thích trong nhà khi rảnh rỗi là gì?",
+    "options": [
+      "Playlist nhạc Acoustic / Lo-fi êm dịu",
+      "Tiếng TV phát talkshow hoặc vlog ẩm thực",
+      "Sự yên tĩnh tuyệt đối, không có tiếng ồn",
+      "Tiếng cười đùa hoặc bật podcast trò chuyện"
+    ]
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Khi gặp một meme hoặc video hài hước trên mạng, phản xạ đầu tiên là:",
+    "options": [
+      "Gửi ngay cho người kia không cần suy nghĩ",
+      "Lưu lại để tối gặp nhau mở cho xem cùng",
+      "Tự cười một mình rồi lướt qua clip khác",
+      "Tag thẳng tên đối phương vào phần bình luận"
+    ]
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Thói quen trước khi đi ngủ vào ban đêm là:",
+    "options": [
+      "Nằm buôn chuyện trên trời dưới đất tới khi mỏi mắt",
+      "Mỗi người bấm điện thoại đến khi ngủ quên",
+      "Chúc ngủ ngon ngọt ngào rồi quay lưng ngủ say",
+      "Nghe nhạc êm dịu hoặc bật podcast ru ngủ"
+    ]
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Dấu hiệu rõ nhất cho thấy đối phương đang cảm thấy căng thẳng/áp lực là:",
+    "options": [
+      "Bỗng nhiên im lặng khác thường, ít nói hẳn",
+      "Thở dài liên tục và hay cau mày vô thức",
+      "Ăn vặt liên tục hoặc uống nhiều đồ ngọt",
+      "Dễ nổi nóng với những chuyện nhỏ nhặt"
+    ]
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "Khi đối phương nói dối hoặc che giấu điều gì đó, biểu hiện là:",
+    "options": [
+      "Mắt đảo liên tục, không dám nhìn thẳng",
+      "Nói lắp bắp hoặc giải thích dài dòng bất thường",
+      "Cười trừ và cố tình đánh trống lảng sang chuyện khác",
+      "Đột nhiên ngọt ngào và quan tâm lạ thường"
+    ]
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "Bộ phận nào trên cơ thể đối phương mà người kia thích ngắm/chạm vào nhất?",
+    "options": [
+      "Đôi bàn tay ấm áp khi nắm chặt",
+      "Đôi mắt và ánh nhìn khi mỉm cười",
+      "Gương mặt hoặc đôi má bầu bĩnh",
+      "Bờ vai hoặc mái tóc thơm tho"
+    ]
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Khi đối phương đang hào hứng kể về một đam mê của mình, họ trông như thế nào?",
+    "options": [
+      "Mắt sáng rực, tay chân múa may phụ họa",
+      "Nói nhanh gấp đôi bình thường, không kịp thở",
+      "Cười tít mắt và liên tục tìm sự đồng thuận",
+      "Nghiêm túc phân tích như một chuyên gia thực thụ"
+    ]
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Món đồ mà đối phương hay để quên hoặc tìm kiếm nhiều nhất là:",
+    "options": [
+      "Chìa khóa xe hoặc thẻ xe",
+      "Điện thoại di động (toàn để quên trên giường/bàn)",
+      "Cục sạc dự phòng hoặc tai nghe",
+      "Ví tiền hoặc kính mắt"
+    ]
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Khi chụp ảnh cùng nhau, đối phương có thói quen tạo dáng ra sao?",
+    "options": [
+      "Tự nhiên nghiêng đầu dựa vào người kia",
+      "Giơ tay chữ V hoặc cười mỉm chuẩn mực",
+      "Thích làm mặt xấu hoặc biểu cảm hài hước",
+      "Chỉnh góc mặt thần thánh đúng góc ưa thích"
+    ]
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Khi người kia thử mặc một bộ đồ mới, phản ứng bạn nhận ra đầu tiên là:",
+    "options": [
+      "Soi gương quay trước quay sau đầy tự tin",
+      "Ngập ngừng hỏi 'Nhìn có bị mập/kỳ không?'",
+      "Hớn hở chạy ra khoe ngay với người kia",
+      "Lập tức lấy điện thoại chụp lại vài tấm ảnh"
+    ]
+  },
+  {
+    "id": 28,
+    "level": 2,
+    "question": "Đâu là thói quen vô thức buồn cười nhất của đối phương?",
+    "options": [
+      "Cắn môi hoặc sờ mũi khi đang tập trung suy nghĩ",
+      "Hát nhảm hoặc tự chế lời bài hát khi tắm/nấu ăn",
+      "Ngáy nhẹ hoặc ôm gối lăn tròn khi ngủ",
+      "Nhại lại giọng người khác một cách hài hước"
+    ]
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "question": "Khi ở nơi đông người xa lạ, người kia thường có xu hướng:",
+    "options": [
+      "Tìm ngay tay đối phương để nắm chặt cho an tâm",
+      "Hướng ngoại, dễ dàng bắt chuyện làm quen với mọi người",
+      "Khép nép, chỉ tập trung nói chuyện với người yêu",
+      "Quan sát xung quanh thật kỹ trước khi hòa nhập"
+    ]
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "question": "Hành động nhỏ nào của đối phương khiến bạn ấm lòng nhất mà họ không hề để ý?",
+    "options": [
+      "Luôn nhường miếng ngon nhất trong đĩa thức ăn",
+      "Kéo áo khoác, đội nón bảo hiểm hoặc chỉnh tóc cho bạn",
+      "Đi về phía làn xe ngoài khi đi dạo trên vỉa hè",
+      "Nhắn tin hỏi han ngay khi bạn vừa về đến nhà"
+    ]
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Khi hai người có quan điểm trái ngược trong một cuộc tranh cãi, cách giải quyết tốt nhất là:",
+    "options": [
+      "Nói thẳng thắn ngay lúc đó để làm rõ mọi khúc mắc",
+      "Cùng im lặng hạ hỏa vài tiếng, sau đó mới ngồi lại tâm sự",
+      "Một người chủ động xuống nước làm hòa trước bằng cái ôm",
+      "Viết tin nhắn tâm thư dài để bày tỏ hết nỗi lòng"
+    ]
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Quan điểm về quản lý tài chính chung trong tương lai của hai bạn:",
+    "options": [
+      "Gộp chung một quỹ gia đình, chi tiêu minh bạch hoàn toàn",
+      "Mỗi người giữ tiền riêng, chia đều các khoản sinh hoạt phí",
+      "Một người giỏi quản lý tiền nhất sẽ giữ tay hòm chìa khóa",
+      "Có quỹ chung cho tương lai, phần còn lại tự do cá nhân"
+    ]
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "Mối quan hệ giữa sự nghiệp cá nhân và tình yêu đôi lứa nên ưu tiên thế nào?",
+    "options": [
+      "Cùng nỗ lực phát triển sự nghiệp để xây dựng nền tảng vững chắc",
+      "Tình cảm gia đình luôn là số 1, công việc chỉ là phương tiện",
+      "Cân bằng 50/50, không để bên nào lấn át bên nào",
+      "Tùy từng giai đoạn, sẵn sàng hy sinh lùi bước hỗ trợ đối phương"
+    ]
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "Khi đi ăn với bạn bè thân thiết của đối phương, bạn nghĩ vai trò của mình là:",
+    "options": [
+      "Tự nhiên hòa nhập vui vẻ như bạn thân lâu năm",
+      "Lịch sự, giữ chừng mực và làm hậu phương ủng hộ người yêu",
+      "Quan sát xem người yêu trong mắt bạn bè thế nào",
+      "Thoải mái tận hưởng bữa ăn, không cần gượng ép"
+    ]
+  },
+  {
+    "id": 25,
+    "level": 3,
+    "question": "Về không gian riêng tư cá nhân khi yêu nhau, hai bạn đồng ý rằng:",
+    "options": [
+      "Yêu nhau là chia sẻ mật khẩu điện thoại và mọi bí mật",
+      "Mỗi người phải có thế giới riêng, tuyệt đối tôn trọng sự riêng tư",
+      "Không giấu giếm nhưng cũng không tò mò kiểm tra điện thoại của nhau",
+      "Tự nguyện chia sẻ mọi điều mà không cần bị ép buộc"
+    ]
+  },
+  {
+    "id": 26,
+    "level": 3,
+    "question": "Nếu gia đình hai bên có sự khác biệt về phong tục hoặc quan điểm sống:",
+    "options": [
+      "Hai đứa đồng lòng bảo vệ nhau và tìm cách dung hòa mềm mỏng",
+      "Ai làm nhiệm vụ cầu nối hòa giải với gia đình người nấy",
+      "Ưu tiên tôn trọng truyền thống của thế hệ đi trước",
+      "Chủ động sống độc lập, giảm thiểu xung đột thế hệ"
+    ]
+  },
+  {
+    "id": 27,
+    "level": 3,
+    "question": "Đối với các dịp lễ kỷ niệm tình yêu (Valentine, ngày yêu nhau...):",
+    "options": [
+      "Nhất định phải có hoa, quà và một bữa tối lãng mạn chỉn chu",
+      "Không quan trọng hình thức, chỉ cần ở bên nhau là đủ",
+      "Một chuyến đi chơi xa đổi gió cùng nhau",
+      "Hạn chế lãng phí, biến những ngày bình thường thành ngày yêu"
+    ]
+  },
+  {
+    "id": 28,
+    "level": 3,
+    "question": "Định nghĩa về sự chung thủy trong tình yêu hiện đại là gì?",
+    "options": [
+      "Tuyệt đối không có bất kỳ mập mờ nào, kể cả tin nhắn thả thính",
+      "Luôn đặt người yêu ở vị trí ưu tiên cao nhất trong tim",
+      "Biết giữ khoảng cách an toàn và dứt khoát với người khác phái",
+      "Sự trung thực và thành thật tuyệt đối trong mọi tình huống"
+    ]
+  },
+  {
+    "id": 29,
+    "level": 3,
+    "question": "Khi đối phương có một thói quen xấu ảnh hưởng đến sức khỏe:",
+    "options": [
+      "Nhắc nhở quyết liệt, thậm chí tịch thu hoặc giận dỗi để họ sửa",
+      "Kiên nhẫn động viên và cùng nhau thực hiện lối sống lành mạnh",
+      "Phân tích tác hại bằng dẫn chứng khoa học thuyết phục",
+      "Tôn trọng lựa chọn cá nhân nhưng luôn nhắc nhở vừa phải"
+    ]
+  },
+  {
+    "id": 30,
+    "level": 3,
+    "question": "Mục tiêu quan trọng nhất trong vòng 2 năm tới của cả hai là:",
+    "options": [
+      "Tích lũy tài chính để mua nhà / xây dựng tổ ấm chung",
+      "Đi du lịch thật nhiều nơi để lưu giữ thanh xuân tươi đẹp",
+      "Tập trung thăng tiến và khẳng định vị thế trong công việc",
+      "Chuẩn bị tâm lý và kế hoạch cho một đám cưới trong mơ"
+    ]
+  },
+  {
+    "id": 31,
+    "level": 4,
+    "question": "Hành động nào của đối phương giúp bạn cảm nhận được tình yêu sâu sắc nhất?",
+    "options": [
+      "Một cái ôm siết chặt và ánh nhìn dịu dàng khi mệt mỏi",
+      "Những lời động viên, khen ngợi chân thành từ đáy lòng",
+      "Chăm sóc tận tình từng bữa ăn viên thuốc khi bạn ốm",
+      "Dành trọn vẹn thời gian chất lượng không rời mắt khỏi bạn"
+    ]
+  },
+  {
+    "id": 32,
+    "level": 4,
+    "question": "Khi bạn đang trải qua một ngày tồi tệ nhất, điều bạn khao khát nhất là:",
+    "options": [
+      "Chỉ muốn được nằm gối đầu vào lòng người ấy khóc cho nhẹ nhõm",
+      "Người ấy mua trà sữa hoặc món ngon đến vỗ về lập tức",
+      "Được lắng nghe mà không bị phán xét hay khuyên bảo dạy đời",
+      "Để bạn yên tĩnh một mình hồi phục rồi lại bên nhau"
+    ]
+  },
+  {
+    "id": 33,
+    "level": 4,
+    "question": "Nỗi sợ vô hình lớn nhất của bạn trong mối quan hệ này là gì?",
+    "options": [
+      "Sợ một ngày nào đó cảm xúc bị phai nhạt thành thói quen vô cảm",
+      "Sợ bản thân không đủ giỏi giang để làm chỗ dựa cho người kia",
+      "Sợ những bất đồng lớn không thể dung hòa dẫn đến xa cách",
+      "Sợ người kia phải chịu tổn thương vì những áp lực cuộc sống"
+    ]
+  },
+  {
+    "id": 34,
+    "level": 4,
+    "question": "Khi người yêu vô tình nói một câu làm bạn tổn thương, bạn thường:",
+    "options": [
+      "Tủi thân rơi nước mắt ngay trước mặt họ",
+      "Cố tỏ ra bình thản nhưng trong lòng lạnh ngắt",
+      "Nói ngay: 'Câu nói vừa rồi của anh/em làm tổn thương em/anh đấy'",
+      "Bỏ đi chỗ khác để lấy lại bình tĩnh trước khi bùng nổ"
+    ]
+  },
+  {
+    "id": 35,
+    "level": 4,
+    "question": "Điều gì ở đối phương khiến bạn cảm thấy an toàn và được bảo vệ nhất?",
+    "options": [
+      "Sự kiên định và luôn giữ lời hứa dù là chuyện nhỏ nhất",
+      "Cảm giác họ luôn đứng về phía mình trước mọi sóng gió",
+      "Sự dịu dàng không bao giờ lớn tiếng quát mắng bạn",
+      "Sự trưởng thành và bản lĩnh giải quyết mọi khó khăn"
+    ]
+  },
+  {
+    "id": 36,
+    "level": 4,
+    "question": "Cách xin lỗi chân thành nhất chạm đến trái tim đối phương là:",
+    "options": [
+      "Ôm thật chặt, nhìn vào mắt và nói 'Anh/Em xin lỗi, anh/em sai rồi'",
+      "Mua món ăn yêu thích kèm theo một bức thư viết tay dễ thương",
+      "Thay đổi hành động ngay lập tức để chứng minh sự hối lỗi",
+      "Chờ đối phương hết giận rồi từ tốn làm hòa bằng sự quan tâm"
+    ]
+  },
+  {
+    "id": 37,
+    "level": 4,
+    "question": "Cảm giác 'ghen tuông' trong mối quan hệ này thường xuất hiện dưới dạng:",
+    "options": [
+      "Ghen tuông đáng yêu, phụng phịu đòi người yêu dỗ dành",
+      "Âm thầm để bụng rồi tự dằn vặt suy nghĩ lung tung",
+      "Thẳng thắn hỏi rõ nguồn cơn để giải tỏa nghi ngờ",
+      "Hầu như không ghen vì tin tưởng người kia tuyệt đối"
+    ]
+  },
+  {
+    "id": 38,
+    "level": 4,
+    "question": "Khoảnh khắc nào khiến bạn nhận ra mình đã 'đổ gục' hoàn toàn trước người ấy?",
+    "options": [
+      "Khi thấy họ đối xử ấm áp, tốt bụng với những người yếu thế",
+      "Khi nhìn thấy nụ cười rạng rỡ ngây ngô của họ dưới ánh hoàng hôn",
+      "Khi họ ân cần chăm sóc bạn trong lúc bạn yếu đuối nhất",
+      "Khi nhận ra mình có thể thoải mái làm chính mình khi ở cạnh họ"
+    ]
+  },
+  {
+    "id": 39,
+    "level": 4,
+    "question": "Khi cả hai phải xa nhau một thời gian ngắn, bạn nhớ điều gì nhất?",
+    "options": [
+      "Hơi ấm và mùi hương đặc trưng quen thuộc của người ấy",
+      "Tiếng lải nhải chuyện linh tinh mỗi ngày bên tai",
+      "Cảm giác được chở che, đi đâu cũng có đôi có cặp",
+      "Những tin nhắn dặn dò ăn uống ngọt ngào mỗi bữa"
+    ]
+  },
+  {
+    "id": 40,
+    "level": 4,
+    "question": "Điều bạn mong đối phương thấu hiểu nhất về tâm trạng của mình là:",
+    "options": [
+      "Đôi khi mình im lặng không phải vì giận, mà vì đang quá mệt mỏi",
+      "Mình có vẻ mạnh mẽ nhưng bên trong rất cần được vỗ về",
+      "Tất cả những cằn nhằn đều xuất phát từ sự lo lắng cho họ",
+      "Dù có chuyện gì xảy ra, tình yêu mình dành cho họ vẫn vẹn nguyên"
+    ]
+  },
+  {
+    "id": 41,
+    "level": 5,
+    "question": "Nếu được quay lại thời điểm bắt đầu quen nhau, bạn sẽ thay đổi điều gì?",
+    "options": [
+      "Chẳng thay đổi gì cả, mọi khoảnh khắc vụng về đều vô giá",
+      "Chủ động ngỏ lời yêu sớm hơn để được bên nhau nhiều hơn",
+      "Bớt e ngại và mở lòng chia sẻ bản thân nhiều hơn",
+      "Dành nhiều thời gian hẹn hò lãng mạn hơn nữa"
+    ]
+  },
+  {
+    "id": 42,
+    "level": 5,
+    "question": "Trong mắt bạn, sự kết nối sâu sắc nhất giữa hai tâm hồn là khi:",
+    "options": [
+      "Ngồi cạnh nhau cả buổi không nói câu nào mà lòng vẫn bình yên lạ thường",
+      "Cùng chung lý tưởng sống và nhìn về một hướng tương lai",
+      "Có thể chia sẻ những góc khuất tăm tối nhất mà không sợ bị phán xét",
+      "Nhìn vào mắt nhau là hiểu đối phương đang nghĩ gì không cần lời nói"
+    ]
+  },
+  {
+    "id": 43,
+    "level": 5,
+    "question": "Định nghĩa về một 'người bạn đời đích thực' (Soulmate) đối với bạn:",
+    "options": [
+      "Người cùng bạn vượt qua mọi giông bão mà không bao giờ buông tay",
+      "Người khiến bạn muốn trở thành phiên bản tốt đẹp hơn của chính mình",
+      "Một bến đỗ bình yên đón bạn về sau những nhọc nhằn ngoài xã hội",
+      "Người chấp nhận toàn bộ khuyết điểm và bao dung bạn vô điều kiện"
+    ]
+  },
+  {
+    "id": 44,
+    "level": 5,
+    "question": "Khi nghĩ về tuổi già 50 năm sau, bức tranh hạnh phúc nhất là:",
+    "options": [
+      "Cùng ngồi uống trà trước hiên nhà, ngắm hoa và nhớ lại thanh xuân",
+      "Nắm tay nhau đi dạo buổi chiều, hai mái đầu bạc phơ vẫn cười tươi",
+      "Con cháu sum vầy quây quần, hai ông bà vẫn âu yếm nhường nhau thức ăn",
+      "Cùng nhau du lịch khắp thế giới tận hưởng trọn vẹn những ngày an nhàn"
+    ]
+  },
+  {
+    "id": 45,
+    "level": 5,
+    "question": "Bài học lớn nhất mà người ấy đã vô tình dạy cho bạn về cuộc sống là gì?",
+    "options": [
+      "Học cách yêu thương vô điều kiện và biết tha thứ bao dung",
+      "Học cách kiên nhẫn lắng nghe và kiểm soát cái tôi của mình",
+      "Biết trân trọng hiện tại và sống có trách nhiệm với tương lai",
+      "Dũng cảm đối mặt với thử thách và luôn lạc quan mỉm cười"
+    ]
+  },
+  {
+    "id": 46,
+    "level": 5,
+    "question": "Nếu phải chọn một từ duy nhất để miêu tả vị trí của người ấy trong cuộc đời bạn:",
+    "options": [
+      "'Nhà' (Nơi luôn dang rộng vòng tay đón mình trở về)",
+      "'Ánh sáng' (Người soi rọi và xua tan những ngày tăm tối)",
+      "'Tri kỷ' (Người thấu hiểu trọn vẹn từng ngóc ngách tâm hồn)",
+      "'Định mệnh' (Mảnh ghép hoàn hảo mà vũ trụ an bài cho mình)"
+    ]
+  },
+  {
+    "id": 47,
+    "level": 5,
+    "question": "Điều gì bạn trân trọng nhất ở người kia mà không ai khác có thể thay thế?",
+    "options": [
+      "Trái tim lương thiện, ấm áp và luôn nghĩ cho người khác",
+      "Sự kiên nhẫn dịu dàng bất tận khi đối diện với những cơn bực của bạn",
+      "Nụ cười rạng rỡ có khả năng chữa lành mọi vết thương trong lòng bạn",
+      "Sự tin tưởng tuyệt đối và luôn tôn trọng giấc mơ của bạn"
+    ]
+  },
+  {
+    "id": 48,
+    "level": 5,
+    "question": "Nếu cuộc sống đặt hai bạn vào một thử thách sinh tử hoặc biến cố lớn:",
+    "options": [
+      "Sẵn sàng hy sinh tất cả để người kia được bình an và hạnh phúc",
+      "Nắm chặt tay nhau, dù sống hay chết cũng không bao giờ chia lìa",
+      "Bình tĩnh cùng nhau tìm lối thoát, làm chỗ dựa tinh thần cho nhau",
+      "Vững tin rằng tình yêu chân chính sẽ giúp hai đứa vượt qua tất cả"
+    ]
+  },
+  {
+    "id": 49,
+    "level": 5,
+    "question": "Khi đối phương có một ước mơ lớn nhưng đầy rủi ro, bạn sẽ:",
+    "options": [
+      "Ủng hộ 100%, sẵn sàng làm hậu phương tài chính và tinh thần vững chắc",
+      "Cùng ngồi xuống tính toán rủi ro và lên phương án dự phòng an toàn",
+      "Khuyên can thận trọng vì lo lắng đối phương phải chịu vấp ngã cay đắng",
+      "Đồng hành dấn thân làm cùng người ấy, cùng thắng cùng chịu"
+    ]
+  },
+  {
+    "id": 50,
+    "level": 5,
+    "question": "Lời hứa sâu kín và thiêng liêng nhất bạn muốn gửi tới đối phương là:",
+    "options": [
+      "Dù năm tháng có đổi thay, tình cảm này trước sau vẫn trọn vẹn như thuở ban đầu",
+      "Sẽ luôn ở đây, làm nơi bình yên nhất để bạn trở về bất cứ lúc nào",
+      "Sẽ nỗ lực không ngừng để đem lại cho bạn một cuộc sống ấm êm, hạnh phúc nhất",
+      "Sẽ yêu thương cả những vết sẹo và khuyết điểm của bạn cho đến cuối cuộc đời"
+    ]
+  }
+]

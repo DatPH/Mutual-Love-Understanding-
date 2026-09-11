@@ -1,0 +1,6 @@
+{
+  "name": "Đồng Điệu Bí Mật - Secret Sync",
+  "description": "Game tương tác 'Pass-and-Play' lãng mạn dành cho các cặp đôi, kiểm tra mức độ thấu hiểu và đồng điệu tâm hồn qua 5 cấp độ thử thách.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
